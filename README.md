@@ -31,14 +31,14 @@
   </p>
 </div>
 
-### 📫 ¿Cómo me encuentras?
+### 📫 Visita mi portafolio y redes
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/antonio-aviles">
+  <a href="https://www.linkedin.com/in/antonio-aviles-31497425a/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/your-twitter-handle">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" />
+  <a href="https://my-portfolio-chi-five-46.vercel.app/">
+   Mi portafolio
   </a>
 </div>
 
