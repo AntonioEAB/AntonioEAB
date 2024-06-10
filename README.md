@@ -35,13 +35,12 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/antonio-aviles-31497425a/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://my-portfolio-chi-five-46.vercel.app/">
-   Mi portafolio
+  <a href="https://my-portfolio-chi-five-46.vercel.app/" style="background-color: #6610f2; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px; font-weight: bold;">
+    Mi Portafolio
   </a>
 </div>
-
 <div align="center">
   ¡Gracias por visitar mi perfil! 😊
 </div>
