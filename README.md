@@ -18,7 +18,7 @@
 
 ```python
 developer = {
-    "nombre":      "Tu Nombre",
+    "nombre":      "Antonio Aviles",
     "rol":         "Full-Stack Developer",
     "experiencia": "2+ años en productos reales",
     "fortalezas":  [
