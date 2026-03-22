@@ -70,15 +70,7 @@ developer = {
 
 <div align="center">
 
-### 💬 ¿Tienes un proyecto en mente?
 
-**Estoy abierto a colaboraciones, freelance y oportunidades full-time.**
-
-[![LinkedIn](https://img.shields.io/badge/Hablemos%20en%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)
-
-<br/>
-
-![Visitor Badge](https://komarev.com/ghpvc/?username=TU_USUARIO&label=Visitas%20al%20perfil&color=6366f1&style=flat-square)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
 
